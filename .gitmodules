@@ -1,0 +1,3 @@
+[submodule "simple-docs"]
+	path = simple-docs
+	url = https://github.com/koteles-david/simple-docs
